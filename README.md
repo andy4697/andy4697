@@ -43,6 +43,6 @@ Welcome to my GitHub profile! I'm Anudeep Appikatla, a passionate Salesforce Dev
 
 [![Email](https://img.shields.io/badge/Email-anudeepappikatla-red)](mailto:appikatlaanudeep.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anudeepappikatla-blue)](https://www.linkedin.com/in/anudeep-appikatla)
-[![Twitter](https://img.shields.io/badge/Twitter-anudeepappikatla-blue)](https://twitter.com/andy1318)
+[![Twitter](https://img.shields.io/badge/Twitter-anudeepappikatla-blue)](https://twitter.com/aanudeep4697)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
