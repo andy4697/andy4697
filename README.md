@@ -33,21 +33,17 @@ Welcome to my GitHub profile! I'm Anudeep Appikatla, a passionate Salesforce Dev
 
 - ![Salesforce](https://img.shields.io/badge/Salesforce-Administrator-blue)
 - ![Salesforce](https://img.shields.io/badge/Salesforce-Platform_App_Builder-blue)
-- ![Salesforce](https://img.shields.io/badge/Salesforce-Sales_Cloud_Consultant-blue)
-- ![Salesforce](https://img.shields.io/badge/Salesforce-Service_Cloud_Consultant-blue)
-- ![Salesforce](https://img.shields.io/badge/Salesforce-Advanced_Administrator-blue)
+- ![Salesforce](https://img.shields.io/badge/Salesforce-Platform_Developer_I-blue)
+- ![Salesforce](https://img.shields.io/badge/Salesforce-Platform_Developer_II-blue)
+- ![Salesforce](https://img.shields.io/badge/Salesforce-AI_Specilaist-blue)
 
-## 🚀 Projects
 
-- **Project 1**: Description of project 1.
-- **Project 2**: Description of project 2.
-- **Project 3**: Description of project 3.
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-andy4697@example.com-red)](mailto:andy4697@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andy-blue)](https://www.linkedin.com/in/andy4697)
-[![Twitter](https://img.shields.io/badge/Twitter-Andy-blue)](https://twitter.com/andy4697)
+[![Email](https://img.shields.io/badge/Email-anudeepappikatla-red)](mailto:appikatlaanudeep.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anudeepappikatla-blue)](https://www.linkedin.com/in/anudeep-appikatla)
+[![Twitter](https://img.shields.io/badge/Twitter-anudeepappikatla-blue)](https://twitter.com/andy1318)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 ```` ▋
