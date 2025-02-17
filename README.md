@@ -31,11 +31,11 @@ Welcome to my GitHub profile! I'm Anudeep Appikatla, a passionate Salesforce Dev
 
 ## 🏆 Certifications
 
-- ![Salesforce](https://img.shields.io/badge/Salesforce-Administrator-blue)
-- ![Salesforce](https://img.shields.io/badge/Salesforce-Platform_App_Builder-blue)
-- ![Salesforce](https://img.shields.io/badge/Salesforce-Platform_Developer_I-blue)
-- ![Salesforce](https://img.shields.io/badge/Salesforce-Platform_Developer_II-blue)
-- ![Salesforce](https://img.shields.io/badge/Salesforce-AI_Specilaist-blue)
+![Salesforce](https://img.shields.io/badge/Salesforce-Administrator-blue)
+![Salesforce](https://img.shields.io/badge/Salesforce-Platform_App_Builder-blue)
+![Salesforce](https://img.shields.io/badge/Salesforce-Platform_Developer_I-blue)
+![Salesforce](https://img.shields.io/badge/Salesforce-Platform_Developer_II-blue)
+![Salesforce](https://img.shields.io/badge/Salesforce-AI_Specilaist-blue)
 
 
 
